@@ -15,7 +15,7 @@ abstract class Automovil {
 // Clase normal
 class Carro implements Automovil{
 
-	// Heredar atributos y métodos de la clase Automovíl
+	// Heredar atributos y métodos de la clase Automovil
 	int llantas = 0;
 	int cilindros = 0;
 
@@ -26,7 +26,7 @@ class Carro implements Automovil{
 
 class Trailer implements Automovil {
 
-	// Heredar atributos y métodos de la clase Automovíl
+	// Heredar atributos y métodos de la clase Automovil
 	int llantas = 0;
 	int cilindros = 0;
 
